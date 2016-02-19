@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Markdown Preview",
+		"Package Control",
+		"Rust",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Theme - Flatland",
+		"Theme - Fox",
+		"Theme - Numix",
+		"Themes Menu Switcher"
+	]
+}

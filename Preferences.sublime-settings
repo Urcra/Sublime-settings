@@ -1,0 +1,9 @@
+{
+	"enable_mathjax": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"shift_tab_unindent": true,
+	"theme": "Flatland Dark.sublime-theme"
+}
