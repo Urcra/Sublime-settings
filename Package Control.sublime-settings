@@ -6,7 +6,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"Git",
+		"GitSavvy",
 		"Markdown Preview",
 		"Package Control",
 		"Rust",
