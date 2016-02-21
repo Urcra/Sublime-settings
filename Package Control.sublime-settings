@@ -17,5 +17,7 @@
 		"Theme - Fox",
 		"Theme - Numix",
 		"Themes Menu Switcher"
+		"SublimeLinter",
+		"SublimeLinter-contrib-rustc",
 	]
 }
